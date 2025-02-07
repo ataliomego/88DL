@@ -1,0 +1,5 @@
+python-telegram-bot==20.0
+requests==2.26.0
+pytube==10.0.0
+yt-dlp==2022.12.1
+python-dotenv==0.20.0 
